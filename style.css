@@ -1,0 +1,15 @@
+/* Apply the background color to the body */
+body {
+    background: #ABB2B9;
+    color: #103CA1;
+}
+
+/* Apply the height to custom-container */
+.custom-container {
+    height: 100%;
+}
+
+/* Apply clip-path to elements with the img-clip class */
+.img-clip {
+    clip-path: polygon(75% 0%, 96% 51%, 75% 100%, 0% 100%, 0 52%, 0% 0%);
+}
